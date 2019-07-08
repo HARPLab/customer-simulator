@@ -1,0 +1,4 @@
+C_1 go to seat_1 at 1
+C_2 go to seat_2 at 1
+C_1 talk to C_2 at 3
+W_1 go to waiter_area at 5
